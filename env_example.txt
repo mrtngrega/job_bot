@@ -1,2 +1,0 @@
-DISCORD_WEBHOOK=<key>
-JOOBLE_API_KEY=<key>
